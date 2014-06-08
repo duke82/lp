@@ -1,0 +1,12 @@
+Installation:
+1) Install pyhton 2.7.7 from python.org/download
+2) Install pip 
+   - download get-pip.py from https://pip.pypa.io/en/latest/installing.html
+   - run command: python get-pip.py
+3) Install Django
+   - run command: pip install Django==1.6.5
+
+Create a Django Project
+1) django-admin.py startproject bm   
+There is an additional file wsgi.py which was not mentioned in the book.
+
